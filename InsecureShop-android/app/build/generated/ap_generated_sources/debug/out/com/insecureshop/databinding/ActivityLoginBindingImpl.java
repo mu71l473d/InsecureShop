@@ -14,13 +14,15 @@ public class ActivityLoginBindingImpl extends ActivityLoginBinding  {
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.ivTop, 1);
-        sViewsWithIds.put(R.id.lable_login, 2);
-        sViewsWithIds.put(R.id.textInputUserName, 3);
-        sViewsWithIds.put(R.id.edtUserName, 4);
-        sViewsWithIds.put(R.id.textInputPassword, 5);
-        sViewsWithIds.put(R.id.edtPassword, 6);
-        sViewsWithIds.put(R.id.btnLogin, 7);
+        sViewsWithIds.put(R.id.imageView, 1);
+        sViewsWithIds.put(R.id.textView3, 2);
+        sViewsWithIds.put(R.id.ivTop, 3);
+        sViewsWithIds.put(R.id.lable_login, 4);
+        sViewsWithIds.put(R.id.textInputUserName, 5);
+        sViewsWithIds.put(R.id.edtUserName, 6);
+        sViewsWithIds.put(R.id.textInputPassword, 7);
+        sViewsWithIds.put(R.id.edtPassword, 8);
+        sViewsWithIds.put(R.id.btnLogin, 9);
     }
     // views
     @NonNull
@@ -31,17 +33,19 @@ public class ActivityLoginBindingImpl extends ActivityLoginBinding  {
     // Inverse Binding Event Handlers
 
     public ActivityLoginBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 8, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 10, sIncludes, sViewsWithIds));
     }
     private ActivityLoginBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
-            , (androidx.appcompat.widget.AppCompatButton) bindings[7]
+            , (androidx.appcompat.widget.AppCompatButton) bindings[9]
+            , (com.google.android.material.textfield.TextInputEditText) bindings[8]
             , (com.google.android.material.textfield.TextInputEditText) bindings[6]
-            , (com.google.android.material.textfield.TextInputEditText) bindings[4]
-            , (androidx.appcompat.widget.AppCompatImageView) bindings[1]
-            , (androidx.appcompat.widget.AppCompatTextView) bindings[2]
+            , (android.widget.ImageView) bindings[1]
+            , (androidx.appcompat.widget.AppCompatImageView) bindings[3]
+            , (androidx.appcompat.widget.AppCompatTextView) bindings[4]
+            , (com.google.android.material.textfield.TextInputLayout) bindings[7]
             , (com.google.android.material.textfield.TextInputLayout) bindings[5]
-            , (com.google.android.material.textfield.TextInputLayout) bindings[3]
+            , (android.widget.TextView) bindings[2]
             );
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
         this.mboundView0.setTag(null);

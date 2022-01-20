@@ -1,4 +1,4 @@
-#Thu Jan 20 16:51:31 CET 2022
+#Thu Jan 20 17:21:12 CET 2022
 base.0=/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

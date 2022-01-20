@@ -476,6 +476,10 @@
         "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_plus.png"
     },
     {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_kiwa_logo.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/kiwa_logo.png"
+    },
+    {
         "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_edittext_bg.xml.flat",
         "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/edittext_bg.xml"
     },

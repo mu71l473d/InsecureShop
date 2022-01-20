@@ -4,6 +4,8 @@ package com.insecureshop.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.AppCompatButton;
@@ -28,6 +30,9 @@ public abstract class ActivityLoginBinding extends ViewDataBinding {
   public final TextInputEditText edtUserName;
 
   @NonNull
+  public final ImageView imageView;
+
+  @NonNull
   public final AppCompatImageView ivTop;
 
   @NonNull
@@ -39,18 +44,23 @@ public abstract class ActivityLoginBinding extends ViewDataBinding {
   @NonNull
   public final TextInputLayout textInputUserName;
 
+  @NonNull
+  public final TextView textView3;
+
   protected ActivityLoginBinding(Object _bindingComponent, View _root, int _localFieldCount,
       AppCompatButton btnLogin, TextInputEditText edtPassword, TextInputEditText edtUserName,
-      AppCompatImageView ivTop, AppCompatTextView lableLogin, TextInputLayout textInputPassword,
-      TextInputLayout textInputUserName) {
+      ImageView imageView, AppCompatImageView ivTop, AppCompatTextView lableLogin,
+      TextInputLayout textInputPassword, TextInputLayout textInputUserName, TextView textView3) {
     super(_bindingComponent, _root, _localFieldCount);
     this.btnLogin = btnLogin;
     this.edtPassword = edtPassword;
     this.edtUserName = edtUserName;
+    this.imageView = imageView;
     this.ivTop = ivTop;
     this.lableLogin = lableLogin;
     this.textInputPassword = textInputPassword;
     this.textInputUserName = textInputUserName;
+    this.textView3 = textView3;
   }
 
   @NonNull

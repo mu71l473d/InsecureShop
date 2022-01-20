@@ -1443,6 +1443,7 @@ drawable ic_supermarket
 drawable jointhepipe
 drawable kiwa_artwork
 drawable kiwa_artwork_se
+drawable kiwa_logo
 drawable kiwakryptonizer
 drawable kiwatulips
 drawable lanyard
@@ -1642,6 +1643,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id imageView2
 id info
 id invisible
@@ -1792,6 +1794,7 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView2
+id textView3
 id textWatcher
 id text_input_end_icon
 id text_input_start_icon
