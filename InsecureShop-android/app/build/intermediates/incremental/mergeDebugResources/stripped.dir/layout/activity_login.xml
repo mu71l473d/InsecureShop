@@ -56,10 +56,10 @@
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/textInputUserName"
-            android:layout_width="355dp"
-            android:layout_height="57dp"
+            android:layout_width="353dp"
+            android:layout_height="83dp"
             android:layout_marginTop="@dimen/extra_large_margin"
-            android:background="#d1111c"
+            android:background="@android:drawable/divider_horizontal_dim_dark"
             app:layout_constraintBottom_toTopOf="@+id/textInputPassword"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -70,10 +70,10 @@
                 android:id="@+id/edtUserName"
                 style="@style/DefaultEditText"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="50dp"
                 android:background="@drawable/btn_bg_yellow"
                 android:drawableEnd="@drawable/ic_email_black_24dp"
-                android:drawablePadding="@dimen/regular_padding"
+                android:drawablePadding="@dimen/medium_padding"
                 android:hint="@string/hint_email"
                 android:inputType="textEmailAddress" />
 
@@ -84,14 +84,14 @@
             android:id="@+id/textInputPassword"
             android:layout_width="356dp"
             android:layout_height="67dp"
-            android:background="#d1111c"
+            android:background="@drawable/edittext_bg"
             app:layout_constraintBottom_toTopOf="@+id/btnLogin"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textInputUserName"
             app:passwordToggleEnabled="true"
-            app:passwordToggleTint="@android:color/black">
+            app:passwordToggleTint="@android:color/holo_blue_dark">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/edtPassword"
@@ -99,7 +99,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/btn_bg_yellow"
-                android:drawablePadding="@dimen/regular_padding"
+                android:drawablePadding="?attr/dialogPreferredPadding"
                 android:hint="@string/hint_password"
                 android:inputType="textPassword" />
 
