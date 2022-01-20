@@ -34,7 +34,7 @@ class AboutUsActivity : AppCompatActivity() {
         intent.putExtra("password", password)
         sendBroadcast(intent)
 
-        textView.text = "InsecureShop is an intentionally designed vulnerable android app built in Kotlin."
+        textView.text = "InsecureKiwaShop is an intentionally designed vulnerable android app built in Kotlin."
 
     }
 

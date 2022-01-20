@@ -1,6 +1,7 @@
 package com.insecureshop
 
 import android.content.Intent
+import android.net.Uri
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
@@ -29,7 +30,8 @@ class ProductAdapter : RecyclerView.Adapter<ProductAdapter.ProductViewHolder>() 
     override fun onBindViewHolder(holder: ProductViewHolder, position: Int) {
         val prodDetail = productList[position]
         val context = holder.mBinding.root.context
-        Glide.with(holder.mBinding.picture.context).load(prodDetail.imageUrl)
+        //prodDetail.imageUrl
+        Glide.with(holder.mBinding.picture.context).load(prodDetail.imageUri)
             .placeholder(ContextCompat.getDrawable(context, R.mipmap.ic_launcher))
             .into(holder.mBinding.picture)
         holder.mBinding.prodName.text = prodDetail.name

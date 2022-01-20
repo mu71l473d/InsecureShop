@@ -25,7 +25,7 @@ class CartAdapter : RecyclerView.Adapter<CartAdapter.CartViewHolder>() {
 
     override fun onBindViewHolder(holder: CartViewHolder, position: Int) {
         val prodDetail = cartList[position]
-        Glide.with(holder.mBinding.picture.context).load(prodDetail.imageUrl)
+        Glide.with(holder.mBinding.picture.context).load(prodDetail.imageUri)
             .into(holder.mBinding.picture)
         holder.mBinding.prodName.text = prodDetail.name
         holder.mBinding.prodPrice.text = "$ " + prodDetail.price

@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_product_item.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/product_item.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_webview.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_tieblue.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/tieblue.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/font_roboto_medium.ttf.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_lanyard.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/lanyard.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_helmetusb.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/helmetusb.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_kiwa_artwork.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/kiwa_artwork.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_kiwatulips.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/kiwatulips.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_pens.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/pens.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_loading_ring.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/loading_ring.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_polonavy.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/polonavy.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_btn_bg.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_taperolls.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/taperolls.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/color_bottom_icon_selector.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/color/bottom_icon_selector.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_tiegreen.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/tiegreen.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_about_us.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_paraplu.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/paraplu.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_cyclingshirt.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/cyclingshirt.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_undefined_kiwa.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/undefined_kiwa.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_kiwa_artwork_se.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/kiwa_artwork_se.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/font_roboto_bold.ttf.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_tiered.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/tiered.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_surfinbeaver.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/surfinbeaver.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_implicit_intent_for_non_exported.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_implicit_intent_for_non_exported.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_usb.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/usb.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_flagmedium.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/flagmedium.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_email_black_24dp.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_rainjacket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/rainjacket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_email_black_24dp.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_minus.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_minus.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_tiepurple.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/tiepurple.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_toolbar.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/font_roboto.ttf.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/font/roboto.ttf"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_flaglarge.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/flaglarge.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_cyclingtightshort.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/cyclingtightshort.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_supermarket.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_supermarket.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_jointhepipe.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/jointhepipe.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_chooser.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_chooser.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_cart_list.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_cart_list.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_kiwakryptonizer.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/kiwakryptonizer.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_cart_item.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/cart_item.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/font_roboto_light.ttf.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/font/roboto_light.ttf"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_info.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_bic.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/bic.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_cap.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/cap.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_powerbank.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/powerbank.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_product_list.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_info.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_info.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_flagsmall.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/flagsmall.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_cyclingtightlong.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/cyclingtightlong.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logout.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_bertbever.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/bertbever.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_stormumbrella.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/stormumbrella.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_shopping_cart.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_beavertail.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/beavertail.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_beaver.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/beaver.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_plus.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_edittext_bg.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_btn_bg_yellow.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/btn_bg_yellow.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_upload_success_dialog.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/upload_success_dialog.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_base_main.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/base_main.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_plus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_tableflag.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/tableflag.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_blauwetas.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/blauwetas.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable_americano.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/drawable/americano.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_logout.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_minus.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_shopping_cart.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-ldpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_supermarket.png.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/generated/res/pngs/debug/drawable-hdpi/ic_supermarket.png"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_app_loading_dialog.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/app_loading_dialog.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/res/merged/debug/layout_activity_private.xml.flat",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_private.xml"
+    }
+]

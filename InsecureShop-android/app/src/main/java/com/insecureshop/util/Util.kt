@@ -4,6 +4,7 @@ import android.content.Context
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.insecureshop.ProductDetail
+import com.insecureshop.R
 import kotlin.collections.ArrayList
 import kotlin.collections.HashMap
 
@@ -11,7 +12,7 @@ object Util {
 
     private fun getUserCreds(): HashMap<String,String> {
         val userCreds = HashMap<String, String>()
-        userCreds["shopuser"] = "!ns3csh0p"
+        userCreds["kiwaadmin"] = "Sup3rSecurePassword!123"
         return userCreds
     }
 
@@ -26,14 +27,15 @@ object Util {
 
     private fun getProductList(): ArrayList<ProductDetail> {
         val productList = ArrayList<ProductDetail>()
-        productList.add(ProductDetail(1, "Laptop", "https://images.pexels.com/photos/7974/pexels-photo.jpg", "80", 1, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(2, "Hat", "https://images.pexels.com/photos/984619/pexels-photo-984619.jpeg", "10", 2, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(3, "Sunglasses", "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg", "10", 4, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(4, "Watch", "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg", "30", 4, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(5, "Camera", "https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg", "40", 2, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(6, "Perfumes", "https://images.pexels.com/photos/264819/pexels-photo-264819.jpeg", "10", 2, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(7, "Bagpack", "https://images.pexels.com/photos/532803/pexels-photo-532803.jpeg", "20", 2, "https://www.insecureshopapp.com"))
-        productList.add(ProductDetail(8, "Jacket", "https://images.pexels.com/photos/789812/pexels-photo-789812.jpeg", "20", 2, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(1, "Kiwa Beaver", R.drawable.beaver ,"6",5, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(2, "Cap", R.drawable.cap, "5.10", 2, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(3, "Bert Bever Behendigheid", R.drawable.bertbever, "4", 4, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(4, "Americano", R.drawable.americano, "30", 4, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(5, "Blue bag", R.drawable.blauwetas, "40", 2, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(6, "cycling shirt", R.drawable.cyclingshirt, "10", 2, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(7, "Kiwa FSS Artwork Special edition", R.drawable.kiwa_artwork_se, "20", 999999, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(8, "Kiwa FSS Artwork", R.drawable.kiwa_artwork,"2", 2, "https://www.insecureshopapp.com"))
+        productList.add(ProductDetail(9, "USB Stick", R.drawable.usb,"2", 2, "https://www.insecureshopapp.com"))
         return productList
     }
 

@@ -1,0 +1,229 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.insecureshop"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:6:5-80
+12-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:7:5-81
+13-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:8:5-72
+14-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:8:22-69
+15
+16    <permission android:name="com.insecureshop.permission.READ" />
+16-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:10:5-67
+16-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:10:17-64
+17
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:14:5-68
+18-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:14:22-65
+19
+20    <application
+20-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:12:5-96:19
+21        android:name="com.insecureshop.InsecureShopApp"
+21-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:13:9-40
+22        android:allowBackup="true"
+22-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:14:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.0] /home/rene/.gradle/caches/transforms-2/files-2.1/3680f33e943d101e1f4a17441664df75/core-1.3.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:15:9-43
+26        android:label="@string/app_name"
+26-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:16:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:17:9-54
+28        android:supportsRtl="true"
+28-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:18:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme"
+30-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:19:9-40
+31        android:usesCleartextTraffic="true" >
+31-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:20:9-44
+32        <activity
+32-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:21:9-44:20
+33            android:name="com.insecureshop.ChooserActivity"
+33-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:22:13-44
+34            android:excludeFromRecents="true" >
+34-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:23:13-46
+35            <intent-filter>
+35-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:24:13-28:29
+36                <action android:name="android.intent.action.VIEW" />
+36-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:25:17-69
+36-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:25:25-66
+37
+38                <category android:name="android.intent.category.DEFAULT" />
+38-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:17-76
+38-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:27-73
+39            </intent-filter>
+40            <intent-filter>
+40-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:29:13-39:29
+41                <action android:name="android.intent.action.SEND" />
+41-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:30:17-69
+41-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:30:25-66
+42
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:17-76
+43-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:27-73
+44
+45                <data android:mimeType="application/*" />
+45-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+45-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:23-55
+46                <data android:mimeType="audio/*" />
+46-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+46-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:23-55
+47                <data android:mimeType="image/*" />
+47-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+47-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:23-55
+48                <data android:mimeType="text/*" />
+48-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+48-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:23-55
+49                <data android:mimeType="video/*" />
+49-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+49-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:23-55
+50            </intent-filter>
+51
+52            <meta-data
+52-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:41:13-43:69
+53                android:name="android.service.chooser.chooser_target_service"
+53-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:42:17-78
+54                android:value=".ConversationChooserTargetService" />
+54-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:43:17-66
+55        </activity>
+56        <activity
+56-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:45:9-47:39
+57            android:name="com.insecureshop.AboutUsActivity"
+57-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:46:13-44
+58            android:exported="true" />
+58-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:47:13-36
+59        <activity android:name="com.insecureshop.CartListActivity" />
+59-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:48:9-54
+59-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:48:19-51
+60        <activity android:name="com.insecureshop.ProductListActivity" >
+60-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:49:9-55:20
+60-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:49:19-54
+61            <intent-filter>
+61-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:50:13-54:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:51:17-69
+62-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:51:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:53:17-77
+64-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:53:27-74
+65            </intent-filter>
+66        </activity>
+67        <activity android:name="com.insecureshop.LoginActivity" />
+67-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:56:9-51
+67-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:56:19-48
+68        <activity android:name="com.insecureshop.WebViewActivity" >
+68-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:57:9-67:20
+68-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:57:19-50
+69            <intent-filter>
+69-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:58:13-66:29
+70                <action android:name="android.intent.action.VIEW" />
+70-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:25:17-69
+70-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:25:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:17-76
+72-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:27-73
+73                <category android:name="android.intent.category.BROWSABLE" />
+73-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:61:17-78
+73-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:61:27-75
+74
+75                <data
+75-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:34:17-58
+76                    android:host="com.insecureshop"
+76-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:64:21-52
+77                    android:scheme="insecureshop" />
+77-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:65:21-50
+78            </intent-filter>
+79        </activity>
+80        <activity android:name="com.insecureshop.WebView2Activity" >
+80-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:68:9-74:20
+80-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:68:19-51
+81            <intent-filter>
+81-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:69:13-73:29
+82                <action android:name="com.insecureshop.action.WEBVIEW" />
+82-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:70:17-74
+82-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:70:25-71
+83
+84                <category android:name="android.intent.category.DEFAULT" />
+84-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:17-76
+84-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:27:27-73
+85                <category android:name="android.intent.category.BROWSABLE" />
+85-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:61:17-78
+85-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:61:27-75
+86            </intent-filter>
+87        </activity>
+88        <activity
+88-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:75:9-77:40
+89            android:name="com.insecureshop.PrivateActivity"
+89-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:76:13-44
+90            android:exported="false" />
+90-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:77:13-37
+91        <activity android:name="com.insecureshop.SendingDataViaActionActivity" >
+91-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:78:9-80:20
+91-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:78:19-63
+92        </activity>
+93        <activity
+93-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:81:9-75
+94            android:name="com.insecureshop.ResultActivity"
+94-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:81:19-49
+95            android:exported="true" />
+95-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:81:50-73
+96
+97        <provider
+97-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:82:9-86:73
+98            android:name="com.insecureshop.contentProvider.InsecureShopProvider"
+98-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:83:13-65
+99            android:authorities="com.insecureshop.provider"
+99-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:84:13-60
+100            android:exported="true"
+100-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:85:13-36
+101            android:readPermission="com.insecureshop.permission.READ" />
+101-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:86:13-70
+102        <provider
+102-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:87:9-95:20
+103            android:name="androidx.core.content.FileProvider"
+103-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:88:13-62
+104            android:authorities="com.insecureshop.file_provider"
+104-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:89:13-65
+105            android:exported="false"
+105-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:90:13-37
+106            android:grantUriPermissions="true" >
+106-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:91:13-47
+107            <meta-data
+107-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:92:13-94:58
+108                android:name="android.support.FILE_PROVIDER_PATHS"
+108-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:93:17-67
+109                android:resource="@xml/provider_paths" />
+109-->/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/AndroidManifest.xml:94:17-55
+110        </provider>
+111
+112        <service
+112-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:17:9-21:19
+113            android:name="net.gotev.uploadservice.UploadService"
+113-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:18:13-65
+114            android:enabled="true"
+114-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:19:13-35
+115            android:exported="true" >
+115-->[net.gotev:uploadservice:3.2.3] /home/rene/.gradle/caches/transforms-2/files-2.1/c76ed78e1bd8305edf72609b087c1ffa/jetified-uploadservice-3.2.3/AndroidManifest.xml:20:13-36
+116        </service>
+117    </application>
+118
+119</manifest>

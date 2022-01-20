@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_webview.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_loading_dialog.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/app_loading_dialog.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_private.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_private.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_implicit_intent_for_non_exported.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/activity_implicit_intent_for_non_exported.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/upload_success_dialog.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/upload_success_dialog.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_item.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/product_item.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cart_item.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/cart_item.xml"
+    },
+    {
+        "merged": "/home/rene/github/InsecureShop/InsecureShop-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/base_main.xml",
+        "source": "/home/rene/github/InsecureShop/InsecureShop-android/app/src/main/res/layout/base_main.xml"
+    }
+]

@@ -27,17 +27,17 @@
             android:layout_height="wrap_content"
             android:text="@string/lable_login"
             app:layout_constraintBottom_toTopOf="@+id/textInputUserName"
+            app:layout_constraintEnd_toEndOf="@id/textInputUserName"
             app:layout_constraintStart_toStartOf="@id/textInputUserName"
             app:layout_constraintTop_toBottomOf="@id/ivTop"
-            app:layout_constraintEnd_toEndOf="@id/textInputUserName"
             app:layout_constraintVertical_chainStyle="packed" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/textInputUserName"
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
+            android:layout_width="355dp"
+            android:layout_height="57dp"
             android:layout_marginTop="@dimen/extra_large_margin"
-            android:background="#FFEA5A"
+            android:background="#d1111c"
             app:layout_constraintBottom_toTopOf="@+id/textInputPassword"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -45,11 +45,13 @@
             app:layout_constraintTop_toBottomOf="@+id/lable_login">
 
             <com.google.android.material.textfield.TextInputEditText
-                style="@style/DefaultEditText"
                 android:id="@+id/edtUserName"
+                style="@style/DefaultEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_yellow"
                 android:drawableEnd="@drawable/ic_email_black_24dp"
+                android:drawablePadding="@dimen/regular_padding"
                 android:hint="@string/hint_email"
                 android:inputType="textEmailAddress" />
 
@@ -58,9 +60,9 @@
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/textInputPassword"
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
-            android:background="#FFEA5A"
+            android:layout_width="356dp"
+            android:layout_height="67dp"
+            android:background="#d1111c"
             app:layout_constraintBottom_toTopOf="@+id/btnLogin"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -70,10 +72,12 @@
             app:passwordToggleTint="@android:color/black">
 
             <com.google.android.material.textfield.TextInputEditText
-                style="@style/DefaultEditText"
                 android:id="@+id/edtPassword"
+                style="@style/DefaultEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/btn_bg_yellow"
+                android:drawablePadding="@dimen/regular_padding"
                 android:hint="@string/hint_password"
                 android:inputType="textPassword" />
 
@@ -85,8 +89,9 @@
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/medium_margin"
-            android:text="@string/btn_login"
+            android:background="#005da1"
             android:onClick="onLogin"
+            android:text="@string/btn_login"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
